@@ -12,26 +12,26 @@
 	"adrinolinks"
     ],
     "website": "https://github.com/Rafik0786/Ag-link-shortner-",
-    "repository": "https://github.com/Rafik0786/Ag-link-shortner-",
+    "repository": "https://github.com/Rohanthakur360/Link-Shortner-Bot-new",
     "env": {
         "API_HASH": {
-            "description": "61f20724c18a07c1150a4297f3240f05",
+            "description": "Your  api hash",
             "value": ""
         },
         "API_ID": {
-            "description": "24897616",
+            "description": "Your api id",
             "value": ""
         },
         "API_KEY": {
-            "description": "http://adrinolinks.in",
+            "description": "Your api key",
             "value": ""
         },
         "API_URL": {
-            "description": "92e45da7e8b1afa4ce12ccfb2546ea0248cff640",
+            "description": "your API url",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "6371350342:AAEc-KJpS4k-mLDvoW9Ncz1a4Mk2Za_fD8E",
+            "description": "Your Bot token",
             "value": ""
         }
     },
@@ -44,7 +44,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     },
     "stack": "heroku-22"
